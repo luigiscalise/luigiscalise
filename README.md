@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @luigiscalise
 - 👀 I’m interested in Godot, Python and Javascript
-- 🌱 I’m currently learning the aforementioned.
+
